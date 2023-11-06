@@ -266,7 +266,7 @@ const projects = [
   {
     name: "Youtube Clone Webapp",
     description:
-      "The Product Youtube clone WebApp is Clone app that mimics like a the original youtube. It is created for the practice purpose.",
+      "The YouTube Clone WebApp is a purpose-built application designed to closely replicate the functionality and user experience of the original YouTube platform. This clone app has been created with the primary intention of providing a practical learning experience in web application development.",
     tags: [
       {
         name: "ReactJs",
@@ -287,7 +287,7 @@ const projects = [
   {
     name: "Inventory Management System",
     description:
-      "The MERN-Based Inventory Management System is a comprehensive web application designed to streamline inventory tracking and management for businesses. This system leverages the MERN stack to provide a user-friendly and feature-rich experience. In addition to core inventory management functionality, the system offers QR code integration, allowing users to download, scan QR codes using a webcam, and upload images for inventory dispatch management.",
+      "The MERN-Based Inventory Management System is a comprehensive web application designed using material-Ui. The system offers QR code integration, allowing users to download, scan QR codes using a webcam, and upload images for inventory dispatch management.",
     tags: [
       {
         name: "ReactJs",
@@ -307,7 +307,8 @@ const projects = [
       },
     ],
     image: inventorymangement,
-    source_code_link: "https://github.com/pankajsainiofficial/Inventory_management_system",
+    source_code_link:
+      "https://github.com/pankajsainiofficial/Inventory_management_system",
   },
 ];
 
