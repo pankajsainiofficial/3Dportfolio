@@ -287,7 +287,7 @@ const projects = [
   {
     name: "Inventory Management System",
     description:
-      "The MERN-Based Inventory Management System is a comprehensive web application designed using material-Ui. The system offers QR code integration, allowing users to download, scan QR codes using a webcam, and upload images for inventory dispatch management.",
+      "The MERN-Based Inventory Management System is a comprehensive web application. The system offers QR code integration, allowing users to download, scan QR codes using a webcam, and upload images for inventory dispatch management.",
     tags: [
       {
         name: "ReactJs",
